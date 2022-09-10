@@ -1,0 +1,18 @@
+Setting up init process ...
+Page table setup done, launching init ...
+Created thread 
+Created thread
+page1 val = 0x0 page2 val = 0x0
+page1 val = 0x1 page2 val = 0x1
+page1 val = 0x2 page2 val = 0x2
+page1 val = 0x3 page2 val = 0x3
+page1 val = 0x4 page2 val = 0x4
+page1 val = 0x5 page2 val = 0x5
+page1 val = 0x6 page2 val = 0x6
+page1 val = 0x7 page2 val = 0x7
+Error: gfree for ctr = 4
+Error: gfree for ctr = 5
+Error: gfree for ctr = 6
+Error: gfree for ctr = 7
+Cleaned up init process
+GemOS shell again!

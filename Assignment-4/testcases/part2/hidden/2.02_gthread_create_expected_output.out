@@ -1,0 +1,14 @@
+Setting up init process ...
+Page table setup done, launching init ...
+Created thread:
+Created thread:
+Created thread:
+Created thread:
+In parent before sleep
+In parent after sleep
+Thread returned is 2
+Thread returned is 4
+Thread returned is 6
+Thread returned is 8
+Cleaned up init process
+GemOS shell again!

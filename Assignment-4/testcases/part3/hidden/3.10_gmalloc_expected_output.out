@@ -1,0 +1,11 @@
+Setting up init process ...
+Page table setup done, launching init ...
+Created thread
+Created thread
+page1 val = 0x3 page2 val = 0x3
+page1 val = 0x2 page2 val = 0x2
+page1 val = 0x1 page2 val = 0x1
+page1 val = 0x0 page2 val = 0x0
+(Sig_Exit) PF Error @ [RIP: 0x1000015A7] [accessed VA: 0x180218000] [error code: 0x4]
+Cleaned up init process
+GemOS shell again!

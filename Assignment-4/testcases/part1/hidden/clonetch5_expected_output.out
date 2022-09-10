@@ -1,0 +1,10 @@
+Setting up init process ...
+Page table setup done, launching init ...
+Created thread
+In parent: 
+Thread 1 set value : 100
+Thread 2 set value : 200
+Parent set value : 300
+
+Cleaned up init process
+GemOS shell again!

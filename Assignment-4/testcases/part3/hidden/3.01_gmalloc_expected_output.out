@@ -1,0 +1,7 @@
+Setting up init process ...
+Page table setup done, launching init ...
+Created thread
+page1 val = 0x987654321 page2 val = 0x123456789
+Thread 1 has joined
+Cleaned up init process
+GemOS shell again!

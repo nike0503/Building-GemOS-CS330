@@ -1,0 +1,12 @@
+Setting up init process ...
+Page table setup done, launching init ...
+Created first thread
+Created second thread
+Created third thread
+Created fourth thread
+Segfault for [2] @0x10000167E for address 0x180215000. Exiting
+Segfault for [3] @0x10000167E for address 0x180219000. Exiting
+Segfault for [4] @0x100001638 for address 0x18021D000. Exiting
+Success for all
+Cleaned up init process
+GemOS shell again!

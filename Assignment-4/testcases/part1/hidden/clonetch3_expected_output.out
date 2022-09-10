@@ -1,0 +1,9 @@
+Setting up init process ...
+Page table setup done, launching init ...
+Created threads
+In parent: 
+Thread 1 result: 120
+Thread 2 result: 39916800
+
+Cleaned up init process
+GemOS shell again!

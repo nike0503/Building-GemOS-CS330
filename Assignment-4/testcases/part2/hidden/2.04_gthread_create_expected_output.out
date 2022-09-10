@@ -1,0 +1,9 @@
+Setting up init process ...
+Page table setup done, launching init ...
+the thread I created
+the thread I created
+(Sig_Exit) PF Error @ [RIP: 0x1000014CE] [accessed VA: 0x0] [error code: 0x7]
+The value ptr is 0x0
+The value returned is 5
+Cleaned up init process
+GemOS shell again!

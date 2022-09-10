@@ -1,0 +1,18 @@
+Setting up init process ...
+Page table setup done, launching init ...
+the thread I created is
+the thread I created is 
+(Sig_Exit) PF Error @ [RIP: 0x1000015D4] [accessed VA: 0x0] [error code: 0x7]
+(Sig_Exit) PF Error @ [RIP: 0x10000160A] [accessed VA: 0x0] [error code: 0x7]
+The value ptr is 0x0
+The value ptr is 0x0
+Created thread:
+Created thread:
+Created thread:
+Created thread:
+Thread returned is 2
+Thread returned is 4
+Thread returned is 6
+Thread returned is 8
+Cleaned up init process
+GemOS shell again!
